@@ -57,6 +57,7 @@
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
             this.Text = "Window5";
+            this.TopMost = true;
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 

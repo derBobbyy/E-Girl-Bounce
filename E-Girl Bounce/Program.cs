@@ -16,7 +16,7 @@ namespace E_Girl_Bounce
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MainWindow());
+            Application.Run(new Form1());
         }
     }
 }

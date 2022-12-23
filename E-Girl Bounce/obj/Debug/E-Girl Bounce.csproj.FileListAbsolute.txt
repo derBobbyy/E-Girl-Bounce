@@ -3,7 +3,6 @@ E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\bin\Debug\E-Girl Bounce.exe
 E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\bin\Debug\E-Girl Bounce.pdb
 E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\obj\Debug\E-Girl Bounce.csproj.AssemblyReference.cache
 E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\obj\Debug\E-Girl Bounce.csproj.SuggestedBindingRedirects.cache
-E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\obj\Debug\E_Girl_Bounce.MainWindow.resources
 E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\obj\Debug\E_Girl_Bounce.Properties.Resources.resources
 E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\obj\Debug\E_Girl_Bounce.Window1.resources
 E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\obj\Debug\E_Girl_Bounce.Window2.resources
@@ -18,10 +17,16 @@ E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\bin\Debug\Bunifu.UI.WinForms.BunifuBu
 E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\bin\Debug\Bunifu.Licensing.dll
 E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\obj\Debug\E-Girl Bounce.exe.licenses
 E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\obj\Debug\E-Girl Bounce.csproj.CopyComplete
-E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\obj\Debug\E_Girl_Bounce.Window.resources
 E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\obj\Debug\E_Girl_Bounce.Window10.resources
 E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\obj\Debug\E_Girl_Bounce.Window11.resources
 E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\obj\Debug\E_Girl_Bounce.Window6.resources
 E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\obj\Debug\E_Girl_Bounce.Window7.resources
 E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\obj\Debug\E_Girl_Bounce.Window8.resources
 E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\obj\Debug\E_Girl_Bounce.Window9.resources
+E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\obj\Debug\E_Girl_Bounce.SettingsWindow.resources
+E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\obj\Debug\E_Girl_Bounce.Form1.resources
+E:\VS Projekte\E-Girl Bounce\E-Girl Bounce\obj\Debug\E_Girl_Bounce.Form2.resources

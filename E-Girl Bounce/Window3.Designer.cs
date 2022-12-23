@@ -56,6 +56,7 @@
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
             this.Text = "Window3";
+            this.TopMost = true;
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
